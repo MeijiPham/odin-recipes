@@ -1,6 +1,7 @@
 .home-heading,
 .pancake-heading,
-.sushi-heading {
+.sushi-heading,
+.steak-heading {
     text-align: center;
     font-size: 48px; 
 }
@@ -20,6 +21,11 @@
     background-color: rgb(33, 201, 33);
 }
 
+.steak-heading {
+    color: rgb(206, 198, 198);
+    background-color: rgb(56, 16, 16);
+}
+
 div {
     text-align: center;
 }
@@ -32,6 +38,11 @@ div {
 #sushi-image {
     height: auto;
     width: 600px;
+}
+
+#steak-image {
+    height: 520px;
+    width: 640px;
 }
 
 h2 {
