@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    background-color: black;   
+}
+
+ul li {
+    font-size: 23px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
