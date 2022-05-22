@@ -1,11 +1,53 @@
-h1 {
+.home-heading,
+.pancake-heading {
     text-align: center;
-    font-size: 48px;
-    color: white;
-    background-color: black;   
+    font-size: 48px; 
 }
 
-ul li {
-    font-size: 23px;
+.home-heading {
+    color: rgb(131, 48, 48);
+    background-color: rgb(182, 182, 74);  
+}
+
+.pancake-heading {
+    color: yellow;
+    background-color: rgb(56, 16, 16);
+}
+
+div {
+    text-align: center;
+}
+
+#pancake-image {
+    height: 385px;
+    width: 470px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+ul li,
+ol li,
+p {
+    font-size: 18px;
     font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+.return {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+ul .home-list {
+    font-size: 24px;
 }
